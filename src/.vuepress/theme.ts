@@ -14,14 +14,12 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "IridescentDev/OfficialWebsite",
 
   docsDir: "src",
 
-  // navbar
   navbar,
 
-  // sidebar
   sidebar,
 
   footer: "默认页脚",
@@ -34,14 +32,11 @@ export default hopeTheme({
     },
   },
 
-  // page meta
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
 
   plugins: {
-
-    // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,

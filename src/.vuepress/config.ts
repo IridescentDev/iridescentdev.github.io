@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -10,6 +11,13 @@ export default defineUserConfig({
 
   theme,
 
-  // Enable it with pwa
-  // shouldPrefetch: false,
+  plugins: [
+    searchProPlugin({
+      locales: {
+        "/": {
+          placeholder: "搜索",
+        },
+      },
+    }),
+  ],
 });
