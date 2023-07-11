@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: /logo.png
+heroImage: https://s2.loli.net/2023/07/11/eXaPWqy154LCs8f.png
 bgImageStyle:
   background-attachment: fixed
 heroText: Iridescent Finale
@@ -23,8 +23,8 @@ actions:
 
 highlights:
   - header: 玩法
-    bgImage: /assets/home/bg1.webp
-    bgImageDark: /assets/home/bg1.webp
+    bgImage: https://s2.loli.net/2023/07/11/LQPTlx2he8pz65w.webp
+    bgImageDark: https://s2.loli.net/2023/07/11/LQPTlx2he8pz65w.webp
     description: Our world, your land.
     image: /assets/home/features.svg
     highlights:
@@ -44,8 +44,8 @@ highlights:
   - header: Lands
     description: 独立 | 联合
     image: /assets/home/lands.svg
-    bgImage: /assets/home/bg2.webp
-    bgImageDark: /assets/home/bg2.webp
+    bgImage: https://s2.loli.net/2023/07/11/IMjlZzpmUu3fikS.webp
+    bgImageDark: https://s2.loli.net/2023/07/11/IMjlZzpmUu3fikS.webp
     highlights:
       - title: 领地
         icon: landmark-flag

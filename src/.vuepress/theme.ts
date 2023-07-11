@@ -3,16 +3,15 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://iridescentdev.github.io/OfficialWebsite/",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Iridescent",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.png",
+  logo: "https://s2.loli.net/2023/07/11/eXaPWqy154LCs8f.png",
 
   repo: "IridescentDev/OfficialWebsite",
 
