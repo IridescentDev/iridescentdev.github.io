@@ -12,7 +12,7 @@ export default navbar([
     icon: "lightbulb",
     prefix: "/player-guide/",
     children: [
-      "README.md",
+      "",
       "rules.md",
       {
         text: "教程",
@@ -26,8 +26,7 @@ export default navbar([
     icon: "lightbulb",
     prefix: "/admin-guide/",
     children: [
-      "README.md",
-      "rules.md",
+      "",
       {
         text: "工作流",
         prefix: "workflows/",
@@ -40,22 +39,11 @@ export default navbar([
     icon: "lightbulb",
     prefix: "/tech-guide/",
     children: [
-      "README.md",
-      {
-        text: "设置项",
-        prefix: "settings/",
-        children: ["properties", "bukkit", "spigot", "paper", "purpur"],
-      },
-      {
-        text: "备份",
-        prefix: "backup/",
-        children: ["eBackup", "manual"],
-      },
-      {
-        text: "更新",
-        prefix: "update/",
-        children: ["core", "plugin"],
-      },
+      "",
+      "settings/README.md",
+      "backup/README.md",
+      "update/README.md",
     ],
   },
+  "status.md"
 ]);

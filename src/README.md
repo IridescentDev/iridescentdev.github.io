@@ -81,6 +81,14 @@ highlights:
         icon: screwdriver-wrench
         details: 技术 | 运维、优化
 
+      - title: Kamisato-Ayaka-233
+        icon: screwdriver-wrench
+        details: 技术 | API
+
+      - title: Smart-Betakk
+        icon: screwdriver-wrench
+        details: 技术 | 插件开发
+
 copyright: Copyright © 2023 Iridescent
 footer: Powered by Vuepress with vuepress-theme-hope
 ---
