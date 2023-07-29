@@ -13,13 +13,10 @@ actions:
     type: primary
 
   - text: 卫星地图📡
-    link: ./get-started/
+    link: http://map.ifserver.cn/
 
-  - text: 玩家文档👀
-    link: ./player-guide/
-
-  - text: 管理文档📄
-    link: ./admin-guide/
+  - text: 论坛👀
+    link: http://forum.ifserver.cn/
 
 highlights:
   - header: 玩法

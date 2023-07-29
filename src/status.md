@@ -8,10 +8,10 @@ footer: Powered by Vuepress with vuepress-theme-hope
 
 ## 技术
 
-- `Iridescent.API` **Work In Progress** *Kamisato-Ayaka-233*
+- `Iridescent.API` **Done, waiting for test** *Kamisato-Ayaka-233*
 - `Iridescent.Launcher` **Work In Progress** *Ziling_uwu*
-- `Iridescent.Nightmare` **Work In Progress** *Smart-Betakk*
+- `Iridescent.Nightmare` **Done, waiting for test** *Smart-Betakk*
 
 ## 策划
 
-- 故事与世界观 **Almost Done** *Ritmo, ZERO_XKRT*
+- 故事与世界观 **Done** *Ritmo, ZERO_XKRT*
