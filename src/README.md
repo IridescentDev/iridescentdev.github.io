@@ -12,11 +12,8 @@ actions:
     link: ./get-started/
     type: primary
 
-  - text: 卫星地图📡
-    link: http://map.ifserver.cn/
-
-  - text: 论坛👀
-    link: http://forum.ifserver.cn/
+  - text: 文档
+    link: https://if.21cnt.cn/
 
 highlights:
   - header: 玩法
@@ -69,10 +66,6 @@ highlights:
       - title: HenryFeng
         icon: language
         details: 汉化 | 插件汉化
-
-      - title: ZERO_XKRT
-        icon: pen-to-square
-        details: 策划 | 玩法与活动规划
 
       - title: lihe07
         icon: screwdriver-wrench
