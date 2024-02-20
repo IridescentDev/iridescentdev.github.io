@@ -59,7 +59,7 @@ highlights:
         icon: handcuffs
         details: 巡查 | 管理员
 
-      - title: Forest_Maple
+      - title: Maple_Pu__
         icon: screwdriver-wrench
         details: 技术 | 客户端配置
 
