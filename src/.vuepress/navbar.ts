@@ -3,11 +3,6 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
-    text: "故事",
-    icon: "book",
-    link: "story.md",
-  },
-  {
     text: "玩家文档",
     icon: "lightbulb",
     prefix: "/player-guide/",
